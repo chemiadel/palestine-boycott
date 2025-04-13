@@ -3,7 +3,7 @@
 
   "name": "Tech Boycott for Palestine",
   "description": "Tech and goods Boycott for Palestine",
-  "version": "1.0",
+  "version": "2.0",
 
   "options_ui": {
     "page": "options.html"
@@ -24,8 +24,6 @@
   "background": {
     "service_worker": "js/background.js"
   },
-
-  "permissions": ["storage"],
 
   "host_permissions": ["<all_urls>"]
 }
