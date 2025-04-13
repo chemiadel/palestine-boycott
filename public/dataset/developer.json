@@ -1,0 +1,221 @@
+[
+  {
+    "Name": "Microsoft",
+    "Website": "https://www.microsoft.com",
+    "Description": "Microsoft has offices on top of the destroyed Palestinian village Al-Haram",
+    "Alternatives": [
+      {
+        "Name": "Linux",
+        "Description": "An open source alternative for Windows",
+        "Website": "https://www.linux.org/"
+      }
+    ]
+  },
+  {
+    "Name": "Apple",
+    "Website": "https://www.apple.com/",
+    "Description": "Apple has offices in the occupied Palestinian land in Haifa, Tel Aviv and Jerusalem",
+    "Alternatives": [
+      {
+        "Name": "Linux",
+        "Description": "An open source alternative for Windows and Apple OS",
+        "Website": "https://www.linux.org/"
+      }
+    ]
+  },
+  {
+    "Name": "Intel",
+    "Website": "https://www.intel.com",
+    "Description": "Intel has offices on the destroyed Palestinian village Al-Haram",
+    "Alternatives": [
+      {
+        "Name": "AMD",
+        "Description": "AMD also produces CPUs",
+        "Website": "https://www.amd.com/"
+      }
+    ]
+  },
+  {
+    "Name": "Nvidia",
+    "Website": "https://www.nvidia.com",
+    "Description": "Nvidia has offices on the destroyed Palestinian village Al-Shaykh Muwannis",
+    "Alternatives": [
+      {
+        "Name": "AMD",
+        "Description": "AMD also produces GPUs",
+        "Website": "https://www.amd.com/"
+      }
+    ]
+  },
+  {
+    "Name": "Wilco",
+    "Description": "",
+    "Website": "https://trywilco.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Swimm",
+    "Description": "",
+    "Website": "https://swimm.io/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Sisense",
+    "Description": "Analytics",
+    "Website": "https://sisense.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Salto",
+    "Description": "DevOps for Business Applications Configuration",
+    "Website": "https://salto.io/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Redis Labs",
+    "Description": "Real-time Data Platform",
+    "Website": "https://redis.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Qwak",
+    "Description": "ML building platform",
+    "Website": "https://qwak.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Permit.io",
+    "Description": "Never Build Permissions Again",
+    "Website": "https://permit.io/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Logz.io",
+    "Description": "Cloud Observability & Security",
+    "Website": "https://logz.io/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Jfrog",
+    "Description": "Software Supply Chain Platform for DevOps & Security",
+    "Website": "https://jfrog.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "IronSource",
+    "Description": "",
+    "Website": "https://is.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Indeitq",
+    "Description": "Providerless Fraud Prevention",
+    "Website": "https://identiq.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Frontegg",
+    "Description": "User Management for B2B SaaS",
+    "Website": "https://frontegg.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Explorium",
+    "Description": "",
+    "Website": "https://explorium.ai/",
+    "Alternatives": []
+  },
+  {
+    "Name": "DagsHub",
+    "Description": "Open Source Data Science Collaboration",
+    "Website": "https://dagshub.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Coralogix",
+    "Description": "",
+    "Website": "https://coralogix.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Codium",
+    "Description": "Code Tests for Devs",
+    "Website": "https://codium.ai/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Cloudinary",
+    "Description": "Image and Video Upload, Storage, Optimization and CDN",
+    "Website": "https://cloudinary.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "BigPanda",
+    "Description": "",
+    "Website": "https://bigpanda.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Anima",
+    "Description": "AI Design to Code",
+    "Website": "https://animaapp.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Amdocs",
+    "Description": "Network transformation communications",
+    "Website": "https://amdocs.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "AI21 Labs",
+    "Description": "",
+    "Website": "https://ai21.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Dragonfly DB",
+    "Description": "A redis compatible In Memory datastore",
+    "Website": "https://www.dragonflydb.io/",
+    "Alternatives": [
+      {
+        "Name": "Memcached",
+        "Description": "Memcached is a high-performance, distributed memory object caching system",
+        "Website": "https://memcached.org/"
+      },
+      {
+        "Name": "KeyDB",
+        "Description": "KeyDB is a fully open source database, backed by Snap, and a faster drop in alternative to Redis",
+        "Website": "https://docs.keydb.dev/"
+      }
+    ]
+  },
+  {
+    "Name": "Tabnine",
+    "Description": "AI assistant for developers like GitHub Copilot",
+    "Website": "https://www.tabnine.com/",
+    "Alternatives": [
+      {
+        "Name": "Codeium",
+        "Description": "A free AI powered toolkit for developers, Not to be confused with codium.ai",
+        "Website": "https://codeium.com/"
+      },
+      {
+        "Name": "Amazon CodeWhisperer",
+        "Description": "AI from Amazon, AWS supports israel but let's focus on israeli companies now",
+        "Website": "https://aws.amazon.com/codewhisperer/"
+      }
+    ]
+  },
+  {
+    "Name": "IronSource",
+    "Description": "ironSource is an israeli software company that focuses on developing technologies for app monetization and distribution",
+    "Website": "https://www.is.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Dell",
+    "Description": "Michael Dell, the founder of Dell, is a member of the Friends of the IDF, which raises money for the Israeli military",
+    "Website": "https://www.dell.com"
+  }
+]

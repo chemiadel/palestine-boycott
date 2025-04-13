@@ -1,0 +1,121 @@
+[
+  {
+    "Name": "Yotpo",
+    "Description": "eCommerce Retention Marketing Platform",
+    "Website": "https://yotpo.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Wix",
+    "Description": "Website Builder",
+    "Website": "https://wix.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "TripleWhale",
+    "Description": "",
+    "Website": "https://triplewhale.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Trendemon",
+    "Description": "",
+    "Website": "https://trendemon.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Start.io",
+    "Description": "Mobile Marketing & Audience Platform for Marketers",
+    "Website": "https://start.io/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Spot.IM (now OpenWeb)",
+    "Description": "",
+    "Website": "https://openweb.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Similarweb",
+    "Description": "",
+    "Website": "https://similarweb.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Riverside.fm",
+    "Description": "Record Podcasts And Videos",
+    "Website": "https://riverside.fm/",
+    "Alternatives": []
+  },
+  {
+    "Name": "PeerSpot",
+    "Description": "Buying Intelligence and Reviews for Enterprise Technology",
+    "Website": "https://peerspot.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Pecan.ai",
+    "Description": "",
+    "Website": "https://pecan.ai/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Optimove",
+    "Description": "",
+    "Website": "https://optimove.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Mapme",
+    "Description": "Map Builder Create Interactive Maps Easily",
+    "Website": "https://mapme.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Lightricks",
+    "Description": "",
+    "Website": "https://lightricks.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Kaltura",
+    "Description": "",
+    "Website": "https://corp.kaltura.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Elementor",
+    "Description": "Website Builder for WordPress",
+    "Website": "https://elementor.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Appsflyer",
+    "Description": "",
+    "Website": "https://appsflyer.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Affogata",
+    "Description": "AI- Driven Player Feedback Analytics",
+    "Website": "https://affogata.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "AdExtent",
+    "Description": "AdExtent helps eCommerce sites turn more visitors to shoppers with personalized product marketing.",
+    "Website": "https://adextent.com/",
+    "Alternatives": [
+      {
+        "Name": "The Trade Desk",
+        "Website": "https://www.thetradedesk.com/"
+      }
+    ]
+  },
+  {
+    "Name": "Outbrain",
+    "Description": "Outbrain is a web recommendation platform",
+    "Website": "https://outbrain.com/",
+    "Alternatives": []
+  }
+]

@@ -1,0 +1,193 @@
+[
+  {
+    "Name": "Zebra Medical Vision",
+    "Description": "",
+    "Website": "https://zebra.com/ap/en.html",
+    "Alternatives": []
+  },
+  {
+    "Name": "Windward",
+    "Description": "",
+    "Website": "https://windward.ai/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Via",
+    "Description": "Book Flights, Hotels, Bus and Holiday Packages Online",
+    "Website": "https://in.via.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Vayyar Imaging",
+    "Description": "",
+    "Website": "https://vayyar.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Vayavision",
+    "Description": "",
+    "Website": "N/A",
+    "Alternatives": []
+  },
+  {
+    "Name": "ThetaRay",
+    "Description": "",
+    "Website": "https://thetaray.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "StoreDot",
+    "Description": "Charging the EV lifestyle",
+    "Website": "https://store-dot.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Soluto",
+    "Description": "",
+    "Website": "https://soluto.en.softonic.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "SolarEdge",
+    "Description": "Solar Powering People’s Lives Around the USA",
+    "Website": "https://solaredge.com/us/",
+    "Alternatives": []
+  },
+  {
+    "Name": "RapidAPI",
+    "Description": "API Hub - Free Public & Open Rest APIs",
+    "Website": "https://rapidapi.com/hub",
+    "Alternatives": []
+  },
+  {
+    "Name": "Playtika",
+    "Description": "",
+    "Website": "https://playtika.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Payoneer",
+    "Description": "Online Payment Processing Platform for Digital Businesses",
+    "Website": "https://payoneer.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "OurCrowd",
+    "Description": "Investing in the Future: Startup and Venture Capital Investments | OurCrowd",
+    "Website": "https://ourcrowd.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Oribi",
+    "Description": "",
+    "Website": "https://oribigroup.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "OrCam Technologies",
+    "Description": "",
+    "Website": "https://noorcam.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Optimal+",
+    "Description": "Boosting Growth in Semiconductors Industry",
+    "Website": "https://semi.org/en",
+    "Alternatives": []
+  },
+  {
+    "Name": "Nanit",
+    "Description": "Nanit Pro Smart Baby Monitor | Tracks Sleep and Breathing",
+    "Website": "https://nanit.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "MyHeritage",
+    "Description": "Free Family Tree, Genealogy, Family History, and DNA Testing",
+    "Website": "https://myheritage.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "mPrest",
+    "Description": "",
+    "Website": "https://mprest.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Moovit",
+    "Description": "",
+    "Website": "https://moovit.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Mobileye",
+    "Description": "Driver Assist and Autonomous Driving Technologies",
+    "Website": "https://mobileye.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Lemonade",
+    "Description": "An Insurance Company",
+    "Website": "https://lemonade.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "JoyTunes",
+    "Description": "Simply | The best apps to set your creativity free",
+    "Website": "https://hellosimply.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Jolt",
+    "Description": "Operations Management Software for Restaurants & Business",
+    "Website": "https://jolt.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Innoviz Technologies",
+    "Description": "LiDAR Technology for Autonomous Vehicles",
+    "Website": "https://innoviz.tech/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Guesty",
+    "Description": "",
+    "Website": "https://guesty.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Flytrex",
+    "Description": "Drone Delivery",
+    "Website": "https://flytrex.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Blazepod",
+    "Description": "Smart Reaction Training Platform",
+    "Website": "https://blazepod.co.il/",
+    "Alternatives": [
+      {
+        "Name": "CatchPad",
+        "Description": "Interactive Exercise Platform",
+        "Website": "https://catchpad.com/en/"
+      },
+      {
+        "Name": "Light Trainer",
+        "Description": "Reaction Light Exercise System",
+        "Website": "https://www.lighttrainer.net/"
+      }
+    ]
+  },
+  {
+    "Name": "Meetup",
+    "Description": "Meetup | Find Local Groups, Events, and Activities Near You",
+    "Website": "https://www.meetup.com/",
+    "Alternatives": [
+      {
+        "Name": "Kommunity",
+        "Description": "Let's share together | Kommunity",
+        "Website": "https://kommunity.com/"
+      }
+    ]
+  }
+]

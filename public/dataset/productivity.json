@@ -1,0 +1,119 @@
+[
+  {
+    "Name": "Verbit",
+    "Description": "",
+    "Website": "https://verbit.ai/",
+    "Alternatives": []
+  },
+  {
+    "Name": "TimeOS",
+    "Description": "",
+    "Website": "https://timeos.ai/",
+    "Alternatives": []
+  },
+  {
+    "Name": "SysAid Technologies",
+    "Description": "The Next-Gen ITSM | Deliver exceptional service. Automagically",
+    "Website": "https://sysaid.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Rupert",
+    "Description": "No-code alert builder",
+    "Website": "https://hirupert.co/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Powtoon",
+    "Description": "Video Maker | Make Videos and Animations Online | Powtoon",
+    "Website": "https://powtoon.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Monday.com",
+    "Description": "",
+    "Website": "https://monday.com/",
+    "Alternatives": [
+      {
+        "Name": "Basecamp",
+        "Description": "Project management software, online collaboration",
+        "Website": "https://basecamp.com/"
+      },
+      {
+        "Name": "Proofhub",
+        "Description": "Plan, track, & manage projects of any size, from simple to complex–across your team from one easy-to-use platform.",
+        "Website": "https://www.proofhub.com/"
+      }
+    ]
+  },
+  {
+    "Name": "Komodor",
+    "Description": "",
+    "Website": "https://komodor.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Lightico",
+    "Description": "",
+    "Website": "https://lightico.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Kryon Systems",
+    "Description": "RPA Software Technology",
+    "Website": "http://kryonsystems.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Honeybook",
+    "Description": "",
+    "Website": "https://honeybook.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Groove",
+    "Description": "",
+    "Website": "https://groove.ooo/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Fiverr",
+    "Description": "",
+    "Website": "https://fiverr.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Connecteam",
+    "Description": "Employee App",
+    "Website": "https://connecteam.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Bizzabo",
+    "Description": "Event Management Software for B2B Conferences",
+    "Website": "https://bizzabo.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Kape Technologies, previously known as Crossrider",
+    "Description": "UK-based company cofounded by an ex-Israeli surveillance agent and a billionaire previously convicted of insider trading who was later named in the Panama Papers. -Source: https://shorturl.at/eGW49 -Brands: ExpressVPN, Private Internet Access, CyberGhost VPN, ZenMate VPN, Intego Antivirus, Webselenese",
+    "Website": "https://www.kape.com/",
+    "Alternatives": [
+      {
+        "Name": "Proton",
+        "Description": "Proton Mail, VPN, Pass, Drive, has excellent free service",
+        "Website": "https://proton.me/"
+      },
+      {
+        "Name": "IVPN",
+        "Description": "VPN registered in Gibraltar",
+        "Website": "https://www.ivpn.net/"
+      },
+      {
+        "Name": "MULLVAD",
+        "Description": "VPN registered in Sweden",
+        "Website": "https://mullvad.net"
+      }
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "Wiz",
+    "Description": "Wiz is a software company headquartered in Israel, that analyzes computing infrastructure hosted in AWS, Azure, GCP, OCI, and Kubernetes for combinations of risk factors that could allow malicious actors to gain control of cloud resources and/or exfiltrate valuable data.",
+    "Website": "https://wiz.io/",
+    "Alternatives": [
+      {
+        "Name": "sysdigsysdig",
+        "Description": "Sysdig stops cloud attacks in real time, instantly detecting changes in risk with runtime insights, a unique AI architecture, and open source Falco. Sysdig delivers live visibility by correlating signals across cloud workloads, identities, and services to uncover hidden attack paths.",
+        "Website": "https://sysdig.com/"
+      }
+    ]
+  },
+  {
+    "Name": "Tufin",
+    "Description": "End-to-end network security across any hybrid enterprise infrastructure",
+    "Website": "https://tufin.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Talon",
+    "Description": "Securing the Modern Hybrid Workforce. Any user, Any location, Any device, Any web application",
+    "Website": "https://talon-sec.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Stellar Cyber",
+    "Description": "Digital cyber security",
+    "Website": "https://stellarcyber.ai/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Snyk",
+    "Description": "Securing the entire development cycle ",
+    "Website": "https://snyk.io/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Silverfort",
+    "Description": "Unified identity protection ",
+    "Website": "https://silverfort.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Sentra",
+    "Description": "Data security",
+    "Website": "https://sentra.io/",
+    "Alternatives": []
+  },
+  {
+    "Name": "SentinelOne",
+    "Description": "Enterprise security platform",
+    "Website": "https://sentinelone.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Salt Security",
+    "Description": "API security ",
+    "Website": "https://salt.security/",
+    "Alternatives": []
+  },
+  {
+    "Name": "SafeBreach",
+    "Description": "Breach and attack simulation ",
+    "Website": "https://safebreach.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Panoray",
+    "Description": "Evaluating 3rd party risk",
+    "Website": "https://panorays.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Noname Security",
+    "Description": "API security platform ",
+    "Website": "https://nonamesecurity.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Imperva",
+    "Description": "API Security",
+    "Website": "https://imperva.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Dig Security",
+    "Description": "Data security for enterprise ",
+    "Website": "https://dig.security/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Descope",
+    "Description": "Customer authentication and identity management",
+    "Website": "https://descope.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Cybereason",
+    "Description": "Security platform for threat detection",
+    "Website": "https://cybereason.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "CyberArk",
+    "Description": "Securing your most privileged users and valuable assets with intelligent privilege controls",
+    "Website": "https://cyberark.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Claroty",
+    "Description": "Securing cyber physical systems",
+    "Website": "https://claroty.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "CheckPoint",
+    "Description": "Assessing cyber security risk",
+    "Website": "https://checkpoint.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Blink Ops",
+    "Description": "Security automation co-pilot ",
+    "Website": "https://blinkops.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "AXONIUS",
+    "Description": "Cybersecurity Asset Management & SaaS Management Solutions",
+    "Website": "https://axonius.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Argus Cyber Security",
+    "Description": "",
+    "Website": "https://argus-sec.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Aqua Security",
+    "Description": "",
+    "Website": "https://aquasec.com/",
+    "Alternatives": []
+  },
+  {
+    "Name": "Apiiro",
+    "Description": "Secure your development and delivery to the cloud",
+    "Website": "https://apiiro.com/",
+    "Alternatives": []
+  }
+]
