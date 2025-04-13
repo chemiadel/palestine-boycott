@@ -26,12 +26,35 @@ const allCompanies = [
   ...web3,
 ];
 
+function rootDomain(url: string): string | null {
+  let rightPeriodIndex: number | undefined;
+  let noExtension: string | undefined;
+
+  for (let i = url.length - 1; i >= 0; i--) {
+    if (url[i] === ".") {
+      rightPeriodIndex = i;
+      noExtension = url.substring(0, i);
+      console.log("this is noExtension", noExtension);
+      break;
+    }
+  }
+
+  if (noExtension) {
+    return noExtension.substring(noExtension.lastIndexOf(".") + 1);
+  }
+
+  return null; // or throw an error if that makes more sense in your use case
+}
+
 export function checkWebsite(url: string): boolean {
-  const parsedUrl = new URL(url);
-  const hostname = parsedUrl.hostname.toLowerCase();
+  console.log({ url });
+  const domain = rootDomain(url);
+  console.log({ domain });
+
+  if (!domain) return false;
 
   const isBoycotted = allCompanies.some((keyword) =>
-    keyword.Website.includes(hostname.toLowerCase())
+    keyword.Website.includes(domain.toLowerCase())
   );
 
   return isBoycotted;
